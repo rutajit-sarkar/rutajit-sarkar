@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there! 👋
+__Welcome to my Repositiory!__
+
+# I'm Rutajit Sarkar
+👨‍🎓 I'm currently a **Pre-final year student** pursuing **B.E in Information Science & Engineering** 
+</br>
+🌱 I’m currently learning **Machine Learning, Data Science, Deep Learning and Software Development**
+
+## My Skills ##
+[![My Skills](https://skills.thijs.gg/icons?i=py,cpp,c,html,css,js,mysql,mongodb,nodejs,figma)](https://skills.thijs.gg)
 
 <!--
 **rutajit-sarkar/rutajit-sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
