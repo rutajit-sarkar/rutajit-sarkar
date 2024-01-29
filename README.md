@@ -4,7 +4,7 @@ __Welcome to my Repositiory!__
 # I'm Rutajit Sarkar
 👨‍🎓 I'm currently a **Pre-final year student** pursuing **B.E in Information Science & Engineering** 
 </br>
-🌱 I’m currently learning **Machine Learning, Data Science, Deep Learning and Software Development**
+🌱 I’m currently learning **AI (Specifically Generative AI (Large Language Models) and Software Development**
 
 ## My Skills ##
 [![My Skills](https://skills.thijs.gg/icons?i=py,cpp,c,html,css,js,mysql,mongodb,nodejs,figma)](https://skills.thijs.gg) </br>
